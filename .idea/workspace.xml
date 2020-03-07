@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fc8f7c3-0876-4000-b733-835d50ec3db2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/game</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectId" id="1YnWBwUq8EGaQ9OCLAVwYLBibJJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553969054110" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Game" />
+      <module name="EventsDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.MainMenu" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolygonEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.PolygonEditor" />
+      <module name="EncapsulationDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.MainMenu" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Game" />
+      <item itemvalue="Application.PolygonEditor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.PolygonEditor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc8f7c3-0876-4000-b733-835d50ec3db2" name="Default Changelist" comment="" />
+      <created>1548257924102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548257924102</updated>
+      <workItem from="1548257925294" duration="63000" />
+      <workItem from="1548257990821" duration="385000" />
+      <workItem from="1548258793446" duration="252000" />
+      <workItem from="1548259432573" duration="19000" />
+      <workItem from="1548259612248" duration="39000" />
+      <workItem from="1548259744166" duration="179000" />
+      <workItem from="1548260084268" duration="144000" />
+      <workItem from="1548262783012" duration="57000" />
+      <workItem from="1548762078978" duration="3596000" />
+      <workItem from="1548859391462" duration="181000" />
+      <workItem from="1549314615471" duration="176000" />
+      <workItem from="1549387515776" duration="898000" />
+      <workItem from="1549397000311" duration="2529000" />
+      <workItem from="1549402267534" duration="2178000" />
+      <workItem from="1549406299926" duration="30000" />
+      <workItem from="1549483596834" duration="3010000" />
+      <workItem from="1549486819620" duration="96000" />
+      <workItem from="1549558567479" duration="424000" />
+      <workItem from="1549647530405" duration="2741000" />
+      <workItem from="1549655480798" duration="136000" />
+      <workItem from="1549727850542" duration="1158000" />
+      <workItem from="1549804427253" duration="1985000" />
+      <workItem from="1549806765655" duration="120000" />
+      <workItem from="1549807086923" duration="62000" />
+      <workItem from="1549879923964" duration="677000" />
+      <workItem from="1550087027279" duration="600000" />
+      <workItem from="1550694802358" duration="1298000" />
+      <workItem from="1550699122384" duration="860000" />
+      <workItem from="1551374044848" duration="1223000" />
+      <workItem from="1551375436672" duration="1219000" />
+      <workItem from="1551520343295" duration="684000" />
+      <workItem from="1551521156071" duration="11810000" />
+      <workItem from="1551613996974" duration="6967000" />
+      <workItem from="1551622376479" duration="884000" />
+      <workItem from="1551625799787" duration="1134000" />
+      <workItem from="1551716068531" duration="172000" />
+      <workItem from="1551719021693" duration="3798000" />
+      <workItem from="1551724288995" duration="6140000" />
+      <workItem from="1551741303445" duration="2589000" />
+      <workItem from="1551789126966" duration="4511000" />
+      <workItem from="1551800079561" duration="110000" />
+      <workItem from="1551800847041" duration="1237000" />
+      <workItem from="1551802094167" duration="29000" />
+      <workItem from="1551806149957" duration="2174000" />
+      <workItem from="1551808379664" duration="115000" />
+      <workItem from="1551975554902" duration="9352000" />
+      <workItem from="1552141922108" duration="6973000" />
+      <workItem from="1552160159321" duration="48000" />
+      <workItem from="1552161884886" duration="4250000" />
+      <workItem from="1552233867921" duration="1717000" />
+      <workItem from="1552235901893" duration="295000" />
+      <workItem from="1552236368739" duration="61000" />
+      <workItem from="1552567234997" duration="701000" />
+      <workItem from="1552577944349" duration="32000" />
+      <workItem from="1552577982376" duration="3000" />
+      <workItem from="1552578071636" duration="51000" />
+      <workItem from="1552578396721" duration="86000" />
+      <workItem from="1552681191102" duration="5784000" />
+      <workItem from="1552741870278" duration="1835000" />
+      <workItem from="1552834085618" duration="485000" />
+      <workItem from="1552836573398" duration="229000" />
+      <workItem from="1552849131205" duration="431000" />
+      <workItem from="1552849660067" duration="543000" />
+      <workItem from="1552948575776" duration="801000" />
+      <workItem from="1553613061243" duration="791000" />
+      <workItem from="1553799315270" duration="1625000" />
+      <workItem from="1553884166835" duration="4035000" />
+      <workItem from="1553947303285" duration="582000" />
+      <workItem from="1553953124802" duration="5070000" />
+      <workItem from="1553961590596" duration="1315000" />
+      <workItem from="1553968496393" duration="266000" />
+      <workItem from="1553968832283" duration="240000" />
+      <workItem from="1583578716928" duration="61000" />
+      <workItem from="1583578826891" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="150" key="GridCell.Tab.0.bottom" timestamp="1583578871887">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="150" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583578871887" />
+    <state width="1398" height="150" key="GridCell.Tab.0.center" timestamp="1583578871885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="150" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583578871885" />
+    <state width="1398" height="150" key="GridCell.Tab.0.left" timestamp="1583578871884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="150" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583578871884" />
+    <state width="1398" height="150" key="GridCell.Tab.0.right" timestamp="1583578871886">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="150" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583578871886" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>CityEngine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EventsDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
