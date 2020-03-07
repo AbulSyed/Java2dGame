@@ -2,73 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fc8f7c3-0876-4000-b733-835d50ec3db2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allclasses-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allclasses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constant-values.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/save.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/save.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/external/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.structure.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.structure.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jszip/dist/jszip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/member-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Bane.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Batman.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/ControlPanel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Controller.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Door.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/DoorListener.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/DropBox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Fire.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/GameLevel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/GameWorld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/GiveFocus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/HighScoreReader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/HighScoreWriter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Joker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Level1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Level2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Level3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Level4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/MainMenu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/MouseTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/MyView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Orange.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Pickup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/PolygonEditor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Tracker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Twoface.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/package-tree.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,6 +233,7 @@
       <workItem from="1583579262489" duration="93000" />
       <workItem from="1583579367219" duration="86000" />
       <workItem from="1583579540573" duration="51000" />
+      <workItem from="1583579751566" duration="84000" />
     </task>
     <servers />
   </component>
@@ -276,22 +241,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="150" key="GridCell.Tab.0.bottom" timestamp="1583579592780">
+    <state width="1398" height="150" key="GridCell.Tab.0.bottom" timestamp="1583579834715">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="150" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583579592780" />
-    <state width="1398" height="150" key="GridCell.Tab.0.center" timestamp="1583579592778">
+    <state width="1398" height="150" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583579834715" />
+    <state width="1398" height="150" key="GridCell.Tab.0.center" timestamp="1583579834714">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="150" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583579592778" />
-    <state width="1398" height="150" key="GridCell.Tab.0.left" timestamp="1583579592776">
+    <state width="1398" height="150" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583579834714" />
+    <state width="1398" height="150" key="GridCell.Tab.0.left" timestamp="1583579834712">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="150" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583579592776" />
-    <state width="1398" height="150" key="GridCell.Tab.0.right" timestamp="1583579592779">
+    <state width="1398" height="150" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583579834712" />
+    <state width="1398" height="150" key="GridCell.Tab.0.right" timestamp="1583579834714">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="150" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583579592779" />
+    <state width="1398" height="150" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583579834714" />
   </component>
   <component name="masterDetails">
     <states>
